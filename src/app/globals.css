@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --foreground: 0 0% 3.9%; --background: 0 0% 100%; }
+* { box-sizing: border-box; }
+body { background: white; color: #111; font-family: Inter, sans-serif; }
